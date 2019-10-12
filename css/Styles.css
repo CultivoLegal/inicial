@@ -1,0 +1,179 @@
+
+#Cadastro{
+	margin-left: 225px;
+	padding: 10px;
+	text-align: center;
+	text-decoration: none;
+	background-color: #2abf19;
+	margin-top: -3px;
+	position: absolute;
+	border: solid 1px black;
+	border-radius: 8px;
+	color: black;
+	font-weight: bold;
+	font-family: Arial;
+	font-size: 14px;
+	
+}
+#Cadastro:hover{
+	background-color: black;
+	color: #2abf19;;
+	border: solid 1px #2abf19;;
+	
+}
+.Social{
+	padding-left: 19px;
+}
+
+#Dance{
+	height: 200px;
+	margin-bottom: -100px;
+	
+}
+#Dance:hover{
+	margin-left: 50px;
+}
+
+#menu{
+	height: 40px;
+	width: 100%;
+	background-color: #222;
+}
+#SubTitulo{
+	text-align: center;
+	font-size: 19px;
+	color: #2cd262;
+	font-family: "Source Sans Pro";
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-weight: bold;
+	background-color: #222;
+	margin-top: -20px;
+	margin-bottom: 60px;
+	
+	
+	
+}
+#container{
+	position:relative;
+	width: 990px;
+	height: auto;
+	margin: 0px auto 0px auto;
+  background-color: #eef4f3;
+	border: solid 2px black;
+	border-radius: 2px;
+
+}
+body{
+	background-image: url("img/horta-capa.png");
+}
+#Mapa{
+	text-align: center;
+	
+}
+#tabela_de_botoes{
+	text-transform: uppercase;
+	width: 100%;
+	text-align: center;
+	margin-top: 30px;
+}
+#Logo{
+	background: url("img/4q.png")no-repeat center;
+	width: 100%;
+	height: 330px;
+	
+}
+#btn_01{
+	width: auto;
+	height:  35px;
+	
+}
+#btn_02{
+	width: auto;
+	height: auto;
+	margin-right: 70px;
+	margin-left: 70px;
+}
+
+#btn_03{
+	width: auto;
+	height: 35px;
+	
+	
+}
+#passos{
+	font-size: 25px;
+	font-family: "Arial";
+	color: black;
+	text-shadow: 0 0 3px #a4a0a0;
+	text-align: center;
+	
+}
+
+#intro{
+	font-size: 20px;
+	margin: 5px 100px 10px 100px;
+	font-family: "Arial";
+	color: white;
+	text-shadow: 0 0 4px #a49f37;
+	
+}
+#fundo_intro{
+	background-color: #838383;
+	width: 100%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	margin-top:  50px;
+}
+.footer {
+    bottom:0;
+    width:100%;
+  
+}
+.footer #branca{
+	background-color: #838383;
+	height: 60px;
+	margin-top: 125px;
+	border-bottom: solid white 2px;
+	border-top: solid 3px black;
+
+}
+.footer #escura{
+	background-color: black;
+	margin-top: -30px;
+	height: 100px;
+}
+.footer #escura p{
+	font-size: 30px;
+	text-align: center;
+	color: wheat;
+	padding-top: 20px;
+}
+.footer #escura samp{
+	margin-left: 700px;
+	color: burlywood;
+	font-size: 15px;
+	margin-top: -22px; 
+	display: inherit;
+}
+@keyframes anima {
+    to {
+        opacity: 0;
+    }
+}
+#contador{
+  float: right;
+	margin-right: 80px;
+	/*! padding-top: 17px; */
+	animation: anima 750ms alternate-reverse infinite;
+	
+}
+#Copyright{
+	padding: 10px;
+	background-color: black;
+	color: white;
+	/*! border-top: solid 1px #9ee19e; */
+	font-size: 12px;
+	text-align: center;
+}

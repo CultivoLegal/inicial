@@ -1,0 +1,60 @@
+#container{
+  background-color: #eef4f3;
+	border: inset  3px;
+	border-radius: 2px;
+}
+
+#lista{
+	padding-left: 70px;
+	margin-top: 40px;
+	margin-bottom: 10px;
+  font-size: 18px; 
+	padding-bottom: 50px;
+	font-family: Arial;
+	
+}
+#lista ul li{
+	padding-top: 10px;
+	text-transform: uppercase;
+}
+#lista em{
+	text-transform: initial;
+	padding-left: 20px;
+	font-style: normal;
+}
+#lista p{
+	text-align: justify;
+	margin-right: 100px;
+	text-indent: 20px;
+}
+#Vendedor{
+	text-align: center;
+}
+#Mapa{
+	width: 400px;
+	height: 300px;
+	margin-left: 130px;
+	margin-top: 10px;
+	border: inset black 4px;
+}
+#ListDireita{
+	float: right;
+	margin-top: -124px;
+	margin-right: 353px;
+
+}
+#ListDireita1{
+	float: right;
+	margin-top: -124px;
+	margin-right: 190px;
+
+}
+#ListMeio{
+	float: right;
+	margin-top: -124px;
+	margin-right: 423px;
+}
+
+#ListEsquerda{
+	margin-left: 90px;
+}

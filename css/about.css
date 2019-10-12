@@ -1,0 +1,44 @@
+
+#sobre{
+  border: solid 2px white;
+  margin-top: 10px;
+  margin-right: 100px;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-left: 100px;
+  text-align: justify;
+  font-size: 20px;
+  font-family: Arial;
+  text-transform: capitalize;
+  text-indent: 30px;
+  background-color: #32e3071c;
+  color: black;
+  line-height: 30px;
+  
+}
+#lista{
+  display: table;
+}
+#List_alunos{
+  float: left;
+}
+#List_alunos li{
+  margin-left: 60px;
+}
+#List_orientadores li{
+  margin-left: 120px;
+}
+#List_alunos p{
+  margin-left: 10px;
+}
+#List_orientadores p{
+  margin-left: 80px;
+}
+#List_orientadores{
+  float: right;
+ 
+}
+a{
+  text-decoration:none;
+  color: blueviolet;
+}
