@@ -1,6 +1,6 @@
 
 #Cadastro{
-	margin-left: 225px;
+	margin-left: 285px;
 	padding: 10px;
 	text-align: center;
 	text-decoration: none;
@@ -50,6 +50,8 @@
 	background-color: #222;
 	margin-top: -20px;
 	margin-bottom: 60px;
+	margin-left: 10px;
+	margin-right: 10px;
 	
 	
 	
@@ -59,13 +61,13 @@
 	width: 990px;
 	height: auto;
 	margin: 0px auto 0px auto;
-  background-color: #eef4f3;
+  	background-color: #eef4f3;
 	border: solid 2px black;
 	border-radius: 2px;
 
 }
 body{
-	background-image: url("img/horta-capa.png");
+	background-image: url("img/horta-capa.jpg");
 }
 #Mapa{
 	text-align: center;
@@ -165,7 +167,6 @@ body{
 #contador{
   float: right;
 	margin-right: 80px;
-	/*! padding-top: 17px; */
 	animation: anima 750ms alternate-reverse infinite;
 	
 }
@@ -173,7 +174,8 @@ body{
 	padding: 10px;
 	background-color: black;
 	color: white;
-	/*! border-top: solid 1px #9ee19e; */
 	font-size: 12px;
 	text-align: center;
 }
+
+
