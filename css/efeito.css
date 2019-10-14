@@ -1,6 +1,8 @@
+
 .dicas{
 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 	margin: 70px;
+
 
 }
 
@@ -8,9 +10,9 @@
 	cursor: pointer;
 }
 .invisivel{
-  margin-top: 20px;
+ 	margin-top: 20px;
 	width: 100%;
-	height: 560px;
+	height: auto;
 	top: 41px;
 	left: 50%;
 	background-color: #fff9;
@@ -18,11 +20,20 @@
 	overflow: hidden;
 	clear: both;
 	padding-top: 10px;
+	padding-left: 20px;
+	margin-bottom: 20px;
 }
 b{
 	color: blueviolet;
 }
 .galeria{
+	left: 40px;
+	width: 702px;
+	height: 502px;
+	position: relative;
+	overflow: hidden;
+}
+.galeria1{
 	margin: 10px auto;
 	width: 702px;
 	height: 502px;
@@ -59,6 +70,26 @@ b{
 .foto:nth-child(10){
 	animation-delay: 45s;
 }
+
+.foto1:nth-child(1){
+
+}
+.foto1:nth-child(2){
+	animation-delay: 4s;
+}
+.foto1:nth-child(3){
+	animation-delay: 8s;
+}
+.foto1:nth-child(4){
+	animation-delay: 12s;
+}
+.foto1:nth-child(5){
+	animation-delay: 16s;
+}
+.foto1:nth-child(6){
+	animation-delay: 20s;
+}
+
 .foto{
 	position: absolute;
 	opacity: 0;
@@ -66,6 +97,14 @@ b{
 	animation-duration:50s;
 	animation-iteration-count: infinite;
 	border: 1px solid;
+}
+.foto1{
+	position: absolute;
+	opacity: 0;
+	animation-name: animacao;
+	animation-duration:25s;
+	animation-iteration-count: infinite;
+	border: 1px solid green;
 }
 @keyframes animacao{
 	10%{
@@ -79,4 +118,20 @@ b{
 
 	}
 
+}
+.li_aqua{
+	text-indent: 40px;
+}
+.list_ol li{
+	padding: 10px;
+}
+.invisivel p, li{
+	font-family: "Arial";
+	text-align: justify;
+	padding-right: 15px;
+}
+
+.cuidados{
+	padding-right: 100px;
+	padding-left: 40px;
 }
