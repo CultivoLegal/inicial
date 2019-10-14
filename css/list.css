@@ -37,24 +37,3 @@
 	margin-top: 10px;
 	border: inset black 4px;
 }
-#ListDireita{
-	float: right;
-	margin-top: -124px;
-	margin-right: 353px;
-
-}
-#ListDireita1{
-	float: right;
-	margin-top: -124px;
-	margin-right: 190px;
-
-}
-#ListMeio{
-	float: right;
-	margin-top: -124px;
-	margin-right: 423px;
-}
-
-#ListEsquerda{
-	margin-left: 90px;
-}
