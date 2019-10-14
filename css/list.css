@@ -21,6 +21,10 @@
 	text-transform: initial;
 	padding-left: 20px;
 	font-style: normal;
+	
+}
+#lista a{
+	text-decoration: none;
 }
 #lista p{
 	text-align: justify;
