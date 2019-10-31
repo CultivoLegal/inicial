@@ -26,6 +26,9 @@
 b{
 	color: blueviolet;
 }
+b:hover{
+	font-size: 21px;
+}
 .galeria{
 	left: 40px;
 	width: 702px;
