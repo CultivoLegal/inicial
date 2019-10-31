@@ -11,7 +11,7 @@ CREDITOS:
     ALUNOS RESPONSÁVEIS:
 
         DÊIVSON ANJOS
-        LUDMILA
+        LUDMILA LARISSA
         THAMIRES FERREIRA
         PÂMELA BANQUEIRO
         PAULO SÉRGIO
@@ -23,5 +23,6 @@ CREDITOS:
         FABIANE ANDRADE
 
     COLABORADORES:
-
-
+        
+        LOJA RAIZ:
+            https://www.lojaraiz.com.br/
